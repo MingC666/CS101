@@ -1,0 +1,15 @@
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/bin/Debug/net7.0/cs101
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/bin/Debug/net7.0/cs101.deps.json
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/bin/Debug/net7.0/cs101.runtimeconfig.json
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/bin/Debug/net7.0/cs101.dll
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/bin/Debug/net7.0/cs101.pdb
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/cs101.csproj.AssemblyReference.cache
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/cs101.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/cs101.AssemblyInfoInputs.cache
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/cs101.AssemblyInfo.cs
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/cs101.csproj.CoreCompileInputs.cache
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/cs101.dll
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/refint/cs101.dll
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/cs101.pdb
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/cs101.genruntimeconfig.cache
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/ref/cs101.dll
