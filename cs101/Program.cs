@@ -1,4 +1,5 @@
-﻿using cs101;
+﻿using SchoolLibrary;
+
 Console.WriteLine("START:");
 
 
@@ -17,11 +18,11 @@ foreach (var cour in courses)
 
 //      Student  //
 List<Student> students = new List<Student>();
-cs101.Student student1 = new cs101.Student("Ming");
-Student student2 = new Student("Joan");
+SchoolLibrary.Student student1 = new SchoolLibrary.Student("Ming");
+Student Joan = new Student("Joan");
 Student student3 = new Student("Jian");
 Student student4 = new Student("Wong");
-students.Add(student1);students.Add(student2);students.Add(student3);students.Add(student4);
+students.Add(student1);students.Add(Joan);students.Add(student3);students.Add(student4);
 
 student1.take_course(course3);
 student1.add_course_grade(course3, 99);
@@ -35,7 +36,7 @@ foreach (var stu in students)
 //   Exception   //
 Console.WriteLine("\n\nTesing\n");
 Console.WriteLine("Add course grade to student who dose take that class: ");
-student2.add_course_grade(course3, 99);
+Joan.add_course_grade(course3, 99);
 
 Console.WriteLine("Checking course grade to student who dose take that class: ");
 student1.see_course_grade(course1);
@@ -44,3 +45,5 @@ student1.see_course_grade(course1);
 
 await Task.Delay(1000);
 Console.WriteLine("\n\n\nEND");
+Student s = new Student("JK");
+Course course = new Course("chemical");

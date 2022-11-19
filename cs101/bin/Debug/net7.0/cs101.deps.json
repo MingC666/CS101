@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "cs101/1.0.0": {
+        "dependencies": {
+          "SchoolLibrary": "1.0.0"
+        },
         "runtime": {
           "cs101.dll": {}
+        }
+      },
+      "SchoolLibrary/1.0.0": {
+        "runtime": {
+          "SchoolLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "cs101/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SchoolLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

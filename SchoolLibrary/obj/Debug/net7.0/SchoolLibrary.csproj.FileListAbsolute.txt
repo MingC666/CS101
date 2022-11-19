@@ -1,0 +1,12 @@
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/bin/Debug/net7.0/SchoolLibrary.deps.json
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/bin/Debug/net7.0/SchoolLibrary.dll
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/bin/Debug/net7.0/SchoolLibrary.pdb
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/obj/Debug/net7.0/SchoolLibrary.csproj.AssemblyReference.cache
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/obj/Debug/net7.0/SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/obj/Debug/net7.0/SchoolLibrary.AssemblyInfoInputs.cache
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/obj/Debug/net7.0/SchoolLibrary.AssemblyInfo.cs
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/obj/Debug/net7.0/SchoolLibrary.csproj.CoreCompileInputs.cache
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/obj/Debug/net7.0/SchoolLibrary.dll
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/obj/Debug/net7.0/refint/SchoolLibrary.dll
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/obj/Debug/net7.0/SchoolLibrary.pdb
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/obj/Debug/net7.0/ref/SchoolLibrary.dll

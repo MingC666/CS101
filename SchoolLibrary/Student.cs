@@ -1,5 +1,5 @@
 ﻿using System;
-namespace cs101
+namespace SchoolLibrary
 {
 	public class Student
 	{
@@ -45,11 +45,11 @@ namespace cs101
         }
 
 		public void see_course_grade(Course course)
-		{
-			try
-			{
-				Course cour = courses_take[courses_take.IndexOf(course)];
-				Console.WriteLine($"{name}, your {cour.Name} grade is {cour.Grade}.");
+        {
+            try
+            {
+                Course cour = courses_take[courses_take.IndexOf(course)];
+                Console.WriteLine($"{name}, your {cour.Name} grade is {cour.Grade}.");
             }
             catch (Exception e)
             {

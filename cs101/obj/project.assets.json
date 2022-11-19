@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "SchoolLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/SchoolLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SchoolLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SchoolLibrary/1.0.0": {
+      "type": "project",
+      "path": "../SchoolLibrary/SchoolLibrary.csproj",
+      "msbuildProject": "../SchoolLibrary/SchoolLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "SchoolLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/ming/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/SchoolLibrary.csproj": {
+              "projectPath": "/Users/ming/Desktop/Personal improve/C_Shap/cs101/SchoolLibrary/SchoolLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

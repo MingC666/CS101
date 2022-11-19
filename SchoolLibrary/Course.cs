@@ -1,5 +1,5 @@
 ﻿using System;
-namespace cs101
+namespace SchoolLibrary
 {
 	public class Course
 	{

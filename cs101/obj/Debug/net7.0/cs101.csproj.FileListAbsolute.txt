@@ -13,3 +13,6 @@
 /Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/cs101.pdb
 /Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/cs101.genruntimeconfig.cache
 /Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/ref/cs101.dll
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/bin/Debug/net7.0/SchoolLibrary.dll
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/bin/Debug/net7.0/SchoolLibrary.pdb
+/Users/ming/Desktop/Personal improve/C_Shap/cs101/cs101/obj/Debug/net7.0/cs101.csproj.CopyComplete

@@ -3,21 +3,35 @@
   <MonoDevelop.Ide.ItemProperties.cs101 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="cs101/Course.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SchoolLibrary/Student.cs">
     <Files>
-      <File FileName="cs101/Program.cs" Line="46" Column="26" />
-      <File FileName="cs101/Student.cs" Line="57" Column="87" />
-      <File FileName="cs101/Course.cs" Line="22" Column="47" />
-      <File FileName="cs101/Tutorial.cs" />
+      <File FileName="cs101/Tutorial.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="cs101/Student.cs" Line="68" Column="33" IsPinned="True" />
+      <File FileName="cs101/Program.cs" Line="32" Column="16" />
+      <File FileName="SchoolLibrary/Course.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="cs101" expanded="True">
             <Node name="cs101" expanded="True">
-              <Node name="Course.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="SchoolLibrary" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Student.cs" selected="True" />
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="cs101" expanded="True" />
         </State>
       </Pad>
     </Pads>
